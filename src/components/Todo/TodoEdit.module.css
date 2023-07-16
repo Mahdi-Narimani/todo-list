@@ -1,0 +1,49 @@
+.edit-box {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    animation:  showEdit .3s ease-in;
+}
+
+@keyframes showEdit {
+    0%{
+        transform: scale(.2);
+    }    
+    50%{
+        transform: scale(.4);
+    }
+    75%{
+        transform: scale(.8);
+    }
+    100%{
+        transform: scale(1);
+    }
+}
+
+.edit-input {
+    width: 75%;
+    height: 35px;
+    border: 1px solid #fdfeff;
+    border-radius: 3px;
+    background-color: #fbfdfe;
+    direction: rtl;
+    padding-inline: 5px;
+    font-size: 1.1rem;
+}
+
+.edit-btn {
+    width: 15%;
+    height: 35px;
+    border: 1px solid #1976D2;
+    background: transparent;
+    color: #1976D2;
+    font-size: 1.1rem;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.edit-btn:hover {
+    background: rgba(111, 175, 240, 0.197);
+    color: #0f3a65;
+}

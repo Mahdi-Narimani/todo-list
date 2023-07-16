@@ -1,0 +1,31 @@
+.box-btn__status{
+    margin-top: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.todo-list {
+    width: 78%;
+    height: 400px;
+    margin-top: 30px;
+    list-style: none;
+    overflow-y: auto;
+}
+
+.done{
+    text-decoration: line-through;
+    font-style: italic;
+}
+
+.todo-list::-webkit-scrollbar {
+    width: 10px;
+}
+
+.todo-list::-webkit-scrollbar-track {
+    background-color: #ebf5fc;
+}
+
+.todo-list::-webkit-scrollbar-thumb {
+    box-shadow: inset 6px 4px 5px #234f6c;
+}

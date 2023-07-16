@@ -1,0 +1,17 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.todo {
+    width: 700px;
+    height: 600px;
+    border: 2px solid rgba(0, 0, 0, .1);
+    border-radius: 30px;
+    box-shadow: 3px 4px 8px #234f6c;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

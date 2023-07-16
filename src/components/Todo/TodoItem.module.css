@@ -1,0 +1,22 @@
+.todo-item{
+    width: 99%;
+    height: 55px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+    color: #fff;
+    transition: all .1s ease-in-out;
+}
+.todo-item:hover{
+    background: rgba(255, 255, 255, 0.284);
+    border: 1px solid #6d6d6d;
+    color: #000;
+    box-shadow: 2px 2px 5px #ffffffe1;
+}
+
+.box-btn{
+    display: flex;
+}

@@ -1,0 +1,22 @@
+.btn-status {
+    width: 90px;
+    height: 35px;
+    border: none;
+    border-radius: 3px;
+    background: #ffffffc1;
+    color: #102437;
+    font-size: .92rem;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px #102437;
+    transition: all .1s ease-out;
+}
+
+.btn-status:active {
+    box-shadow: none;
+    box-shadow: 2px 2px 5px #ffffff2e;
+}
+
+.btn-status:focus {
+    background: #1C3F56;
+    color: #fff;
+}
