@@ -10,6 +10,11 @@
 4> **Use of material UI components:**
 ![Screenshot 2023-07-16 085045](https://github.com/Mahdi-Narimani/todo-list/assets/86662409/722a37ed-8cb8-41f6-ba62-07e9da59005f)
 
-5> **Ability to edit :** ![Screenshot 2023-07-16 085129](https://github.com/Mahdi-Narimani/todo-list/assets/86662409/1732e819-c5b9-4019-b6bf-2041854dc2ab)
+5> **Ability to add, remove, edit and completed :** ![Screenshot 2023-07-16 085129](https://github.com/Mahdi-Narimani/todo-list/assets/86662409/1732e819-c5b9-4019-b6bf-2041854dc2ab)
  ![Screenshot 2023-07-16 085148](https://github.com/Mahdi-Narimani/todo-list/assets/86662409/a6647ebd-6091-43ca-8c6d-98a8df0a076a)
+
+
+
+
+
 
